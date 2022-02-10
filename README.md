@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Veronika @Veracodes and I am a junior software developer
-- 👀 I’m interested in software development, especially building software that helps with automation
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently in a software development bootcamp learning HTML, CSS, JavaScript and Python
 - 💞️ I’m looking to collaborate on projects that are beginner friendly
 - 📫 How to reach me https://www.linkedin.com/in/veronika-a-47154822b/
