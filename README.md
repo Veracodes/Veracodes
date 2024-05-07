@@ -14,7 +14,7 @@
 
 <strong>Docker:</strong> I’m well-versed in containerization using Docker, ensuring seamless deployment and scalability.<br>
 
-<strong>AWS:</strong> I’ve utilized Amazon Web Services (AWS) for cloud infrastructure, managing services like EC2, S3, and RDS.<br>
+<strong>AWS:</strong> I’ve utilized Amazon Web Services (AWS) for cloud infrastructure.<br>
 
 Feel free to checkout the projects that I ahve contributed to:
 
