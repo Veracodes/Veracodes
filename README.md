@@ -16,7 +16,7 @@
 
 <strong>AWS:</strong> I’ve utilized Amazon Web Services (AWS) for cloud infrastructure.<br>
 
-Feel free to checkout the projects that I ahve contributed to:
+Feel free to check out the projects that I have contributed to:
 
 <ul>
   <li><a href="https://wildlabs.net/">Wildlabs</a></li>
