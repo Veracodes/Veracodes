@@ -1,4 +1,4 @@
-👋 Hi there! I’m Veronika, a passionate software developer with commercial experience in building robust web applications. My tech stack includes:
+👋 Hi there! I’m Veronika, a passionate software developer with commercial experience building robust web applications. My tech stack includes:
 
 <strong>PHP:</strong> I’ve worked extensively with PHP, creating dynamic and efficient backends for various projects. <br>
 
@@ -26,7 +26,7 @@ Feel free to check out the projects that I have contributed to:
   <li><a href="https://www.londonzoo.org/zoo-stories/history-of-london-zoo/time-travel">ZSL Time Travellers Guide (the Game)</a></li>
 </ul>
 
-If you have any questions or want to collaborate, don’t hesitate to reach out. Let’s build amazing things together! 🚀
+If you have any questions or want to collaborate, please reach out. Let’s build amazing things together! 🚀
 
 📫 https://www.linkedin.com/in/a-veronika
 
